@@ -12,3 +12,4 @@
         "built/**",
         "pxt_modules/**/*test.ts"
     ]
+}
